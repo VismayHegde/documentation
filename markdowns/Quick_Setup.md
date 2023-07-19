@@ -85,3 +85,16 @@ github.com/keybase/go-keychain
 ```
 go version with arm64 may face issues while running this application, it is recommended to use amd64 based go version  for the deployment
 ```
+
+## Node Deployment Services
+
+```
+Deploying and maintaining nodes in the blockchain world can be a daunting and intricate task, especially for newcomers. It requires a deep understanding of various technical aspects and can consume a significant amount of time. To simplify this process and make our project more accessible, we highly recommend using the MyCointainer node deployment platform.
+
+[MyCointainer](https://www.mycointainer.com/developers/developers/node-and-validator-partner) is a well-regarded third-party service that specializes in easy node deployment and maintenance. They offer a streamlined and user-friendly platform that allows you to set up and manage your nodes with just a few simple clicks. Their team of experts also provides continuous support and maintenance, ensuring that your nodes operate smoothly without requiring constant personal monitoring. With MyCointainer, you can focus on your blockchain buidling/creative endeavors while leaving the complexities of node management to the professionals.
+
+```
+
+
+
+
