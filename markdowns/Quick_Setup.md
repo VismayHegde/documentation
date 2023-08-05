@@ -91,7 +91,7 @@ go version with arm64 may face issues while running this application, it is reco
 Deploying and maintaining nodes can often be a complex process, especially for those a new to the
 world of cryptocurrency. It involves a deep understanding of various technical aspects and can be
 time-consuming. To ease this process and make our project more accessible, we recommend
-MyCointainer node deployment platform.
+[MyCointainer node deployment platform](https://www.mycointainer.com/).
 MyCointainer is a reputable third-party service that specializes in easy node deployment and
 maintenance. They offer a streamlined, user-friendly platform that allows you to set up and maintain
 your nodes with just a few clicks. Their expert team also provides continuous support and
